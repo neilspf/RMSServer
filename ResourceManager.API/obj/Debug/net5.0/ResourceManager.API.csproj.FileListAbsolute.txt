@@ -1,0 +1,489 @@
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.json
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.exe
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.deps.json
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.json
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.dev.json
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ref\ResourceManager.API.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Castle.Core.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Humanizer.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.AssemblyReference.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfoInputs.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfo.cs
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CoreCompileInputs.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.Manifest.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.xml
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\scopedcss\bundle\ResourceManager.API.styles.css
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.RazorTargetAssemblyInfo.cache
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CopyComplete
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ref\ResourceManager.API.dll
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.pdb
+D:\Training\New folder\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.genruntimeconfig.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.Development.json
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.json
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.exe
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.deps.json
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.json
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.dev.json
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ref\ResourceManager.API.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Castle.Core.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Humanizer.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\NuGet.Frameworks.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.AssemblyReference.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfoInputs.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfo.cs
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CoreCompileInputs.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.Manifest.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.xml
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\scopedcss\bundle\ResourceManager.API.styles.css
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.RazorTargetAssemblyInfo.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CopyComplete
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ref\ResourceManager.API.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.pdb
+D:\Training\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.genruntimeconfig.cache
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.ViewModels.dll
+D:\Training\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.ViewModels.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.Development.json
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\appsettings.json
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.exe
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.deps.json
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.json
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.runtimeconfig.dev.json
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ref\ResourceManager.API.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.API.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Castle.Core.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Humanizer.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\NuGet.Frameworks.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.ViewModels.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Business.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Entity.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.ViewModels.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\bin\Debug\net5.0\ResourceManager.Data.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.AssemblyReference.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfoInputs.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.AssemblyInfo.cs
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CoreCompileInputs.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cs
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.MvcApplicationPartsAssemblyInfo.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.Manifest.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\staticwebassets\ResourceManager.API.StaticWebAssets.xml
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\scopedcss\bundle\ResourceManager.API.styles.css
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.RazorTargetAssemblyInfo.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ref\ResourceManager.API.dll
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.pdb
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.genruntimeconfig.cache
+E:\RMS\RMS\ResourceManager\ResourceManager.API\obj\Debug\net5.0\ResourceManager.API.csproj.CopyComplete
